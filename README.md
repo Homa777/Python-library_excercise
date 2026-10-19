@@ -2,6 +2,6 @@ These repositories include some exercises as the reference of Basic python progr
 
 I made this to have it as my reference. This way if I forget some contents, I can go back to it.
 
-Excercise1 convert String to date and convert Sring to list type.
+Exercise 1 converts String to date and converts String to list type.
 
 Exercise 2 shows List Comprehension.
